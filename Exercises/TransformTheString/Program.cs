@@ -29,7 +29,7 @@ namespace TransformTheString
         }
     }
 
-    class Program
+    internal class Program
     {
         public static void Run()
         {
