@@ -2,7 +2,7 @@
 
 namespace InterestingIntegers
 {
-    public class Solution
+    internal class Solution
     {
         private static long SumDigitsOf(long n)
         {
